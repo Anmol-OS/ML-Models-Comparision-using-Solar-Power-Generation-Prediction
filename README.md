@@ -1,5 +1,4 @@
-# GDG_Anmol-Bhatnagar_AIML-Task
-## Solar Power Generation Prediction
+# Solar Power Generation Prediction
 This project analyzes and models solar power generation from two different plants. Using provided weather and generation data, the goal was to build a machine learning model that can accurately predict the amount of usable power generated.
 
 ### Project Overview
